@@ -1,5 +1,5 @@
 # No Phishy
-Phishing URL Detection Project
+Phishing URL Detection System
 
 #### Tech Stack :nerd_face:
 <table>
@@ -36,6 +36,14 @@ $ run the kernel
 $ open Sequential_Classifier.ipynb
 $ run the kernel
 ```
+
+#### Models used
+- Sequential Classifer
+- MLP Classifier
+- Logistic Regression
+- Decision Tree
+
+
 #### Contributors :woman_student:	
 - <a href="https://github.com/Shreya549">Shreya Chatterjee</a>
 - <a href="https://github.com/emmadidivyasrujana">Divya Srujana</a>
